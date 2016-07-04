@@ -1,5 +1,7 @@
 # CourseraGettingCleaningData
-The data described here is a subset of Human Activity Recognition Using Smartphones Dataset. (See credits for original dataset at the bottom of this file.)
+The data described here is a subset of Human Activity Recognition Using Smartphones Dataset. (See credits for original dataset at the bottom of this file.) 
+
+See CopyBook.md for further detail on data features.
 
 Here is an explanation of the original dataset:
 
