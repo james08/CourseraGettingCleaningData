@@ -16,28 +16,30 @@ These signals were used to estimate variables of the feature vector for each pat
 
 NOTE: In this dataset which is a subset of the original data, all the below mentioned variables are a 'mean' calculation of the original grouped by subject and activity.
 
-- tBodyAcc-XYZ
-- tGravityAcc-XYZ
-- tBodyAccJerk-XYZ
-- tBodyGyro-XYZ
-- tBodyGyroJerk-XYZ
-- tBodyAccMag
-- tGravityAccMag
-- tBodyAccJerkMag
-- tBodyGyroMag
-- tBodyGyroJerkMag
-- fBodyAcc-XYZ
-- fBodyAccJerk-XYZ
-- fBodyGyro-XYZ
-- fBodyAccMag
-- fBodyAccJerkMag
-- fBodyGyroMag
-- fBodyGyroJerkMag
+
+- tbodyacc-xyz
+- tgravityacc-xyz
+- tbodyaccjerk-xyz
+- tbodygyro-xyz
+- tbodygyrojerk-xyz
+- tbodyaccmag
+- tgravityaccmag
+- tbodyaccjerkmag
+- tbodygyromag
+- tbodygyrojerkmag
+- fbodyacc-xyz
+- fbodyaccjerk-xyz
+- fbodygyro-xyz
+- fbodyaccmag
+- fbodyaccjerkmag
+- fbodygyromag
+- fbodygyrojerkmag
+
 
 The set of variables that were estimated from these signals are: 
 
-- mean(): Mean value
-- std(): Standard deviation
+- mean: Mean value
+- std: Standard deviation
 
 Data Analysis/Cleaning Perfomed
 ================================
