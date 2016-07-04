@@ -23,6 +23,7 @@ The dataset includes the following files:
 
 - subjectActivityMean.txt - This is the dataset with first row as headings.
 - CodeBook.md - A description of the data.
+- run_analysis.R - The R script which produces subjectActivityMean.txt provided you have downloaded the data and have set your working directory to it's root.
 
 
 Notes: 
