@@ -43,10 +43,10 @@ The set of variables that were estimated from these signals are:
 
 Data Analysis/Cleaning Perfomed
 ================================
-Please see run_analysis.R for detail.
-The original data set was broken up into training and test sets for machine learning purposes.
-The first step is to merge the training and test data back together, including variable names and activity labels.
-The next step is to remove redundant data and clean.
+Please see run_analysis.R for detail.<br>
+The original data set was broken up into training and test sets for machine learning purposes.<br>
+The first step is to merge the training and test data back together, including variable names and activity labels.<br>
+The next step is to remove redundant data and clean.<br>
 Lastly a file is produced containing only the means of the standard deviation and the mean grouped by subject and activity.
  
 
