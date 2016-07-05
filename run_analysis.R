@@ -61,7 +61,7 @@ mean_std_cols <- grep("mean[()]|std[()]", x_names)
 col_nums <- c(which(x_names == "subject"), which(x_names == "activity"), mean_std_cols)
 x_subset <- x_data[,col_nums]
 
-## Clean names. Remove brackets and caps and '-' as they get interpreted as minus signs.
+## Clean names. Remove brackets and caps.
 names(x_subset) <- tolower(gsub("[()]","",names(x_subset)))
 
 ## Group & summarize
