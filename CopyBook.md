@@ -14,7 +14,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-NOTE: In this dataset which is a subset of the original data, all the below mentioned variables are a 'mean' calculation of the original grouped by subject and activity.
+NOTE: In this dataset which is a subset of the original data, all the below mentioned variables are a 'mean' calculation of the original grouped by subject and activity. *THE BELOW FIELDS ARE A CONDENSED SUMMARISATION OF THE ACTUAL VARIABLES IN THE DATASET. THE MEANING OF ALL VARIABLES IN THE DATASET CAN BE CORRECTLY INTERPRETED USING THE INFORMATION GIVEN HERE.*
 
 
 - tbodyacc-xyz
